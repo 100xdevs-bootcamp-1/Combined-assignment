@@ -4,20 +4,6 @@ All weekly assignments from the cohort.
 
 ---
 
-## Structure
-
-```
-week-1/
-week-2/
-week-3-to-5/
-week-6/
-week-7-to-8/
-week-9/
-week-10/
-```
-
----
-
 ## Weeks
 
 * [Week 1](./Week-1)
@@ -27,6 +13,7 @@ week-10/
 * [Week 7–8](./Week-7-to-8)
 * [Week 9](./Week-9)
 * [Week 10](./Week-10)
+* [Week 11](./Week-11)
 
 ---
 
